@@ -33,7 +33,8 @@ The Muskingum method is a hydrological flow routing model with lumped parameters
 Estimate  of Parameters K and X  
 The Muskingum K parameter is equivalent to the travel time through the reach. The Muskingum X parameter is a dimensionless coefficient that lacks a strong physical meaning.  This parameter must range between 0.0 (maximum attenuation) and 0.5 (no attenuation).  When this parameter is set to a value of 0, storage within the reach is computed solely as a function of outflow.  This is equivalent to level pool routing and results in the maximum possible amount of attenuation.  When this parameter is set to a value of 0.5, equal weight is given to both inflow and outflow when determining storage within the reach.  This results in no attenuation to the inflow hydrograph as it progresses through the reach.  For most applications, an initial estimate of 0.25 is further refined through model calibration.
 
-LONGITUDINAL SECTION OF RIVER OF VAMASADHARA:LONGITUDINAL SECTION OF RIVER OF VAMASADHARA is prepared using excel data file  and SWDTM software.
+LONGITUDINAL SECTION OF RIVER OF VAMASADHARA:
+LONGITUDINAL SECTION OF RIVER OF VAMASADHARA is prepared using excel data file  and SWDTM software.
 
 
  
